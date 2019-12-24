@@ -1,4 +1,4 @@
-requests==2.18.4
+requests==2.20.0
 tqdm==4.11.2
 pandas==0.25.3
 pytrends==4.7.2
