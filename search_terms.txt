@@ -1,0 +1,101 @@
+Tisch Hospital
+Stanford Hospital
+AdventHealth Orlando
+Cedars-Sinai Medical Center
+NewYork-Presbyterian Hospital
+Weill Cornell Medical Center
+The Cleveland Clinic
+UCSF Medical Center
+UPMC Presbyterian
+Montefiore Hospital
+Hospital of the University of Pennsylvania
+Orlando Regional Medical Center
+Vanderbilt University Hospital
+Methodist Hospital
+Yale-New Haven Hospital
+Massachusetts General Hospital
+NYU Winthrop Hospital
+UC Davis Medical Center
+Long Island Jewish Medical Center
+University of Michigan Hospitals and Health Centers
+IU Health Methodist University
+Geisinger Medical Center
+Carolinas Medical Center
+The University of Kansas Hospital
+UCHealth University of Colorado Hospital
+The University of Chicago Medical Center
+Temple University Hospital
+Baptist Medical Center
+Lehigh Valley Hospital
+Northside Hospital
+Duke University Hospital
+The University of Texas M. D. Anderson Cancer Center
+Methodist University Hospital
+North Shore University Hospital
+Brigham and Women's Hospital
+UAB Hospital
+Tampa General Hospital
+Norton Hospital
+Memorial Sloan-Kettering Cancer Center
+Parkland Hospital
+Northwestern Memorial Hospital
+Memorial Hermann Southwest Hospital
+Memorial Hermann - Texas Medical Center
+The Mount Sinai Hospital
+Chippenham Hospital
+Ohio State University Wexner Medical Center
+Oklahoma University Medical Center
+Memorial Regional Hospital
+Loma Linda University Medical Center
+Sunrise Hospital & Medical Center
+UC San Diego Health System
+Wake Forest University Baptist Medical Center
+Westchester Medical Center
+Medical City Dallas
+Thomas Jefferson University Hospital
+VCU Medical Center
+The Children's Hospital of Philadelphia
+Sharp Memorial Hospital
+UH Cleveland Medical Center
+UH Rainbow Babies & Children's Hospital
+Jackson Memorial Hospital
+Barnes-Jewish Hospital
+Doctors Medical Center of Modesto
+JFK Medical Center
+Baptist Medical Center Jacksonville
+Aurora Saint Luke's Medical Center
+Sylvester Comprehensive Cancer Center
+Saint Luke's University Hospital
+Baylor Scott & White Medical Center Temple
+University of Kentucky Albert B. Chandler Hospital
+University Hospital
+Evanston Hospital
+Morristown Medical Center
+Robert Wood Johnson University Hospital New Brunswick
+UF Health Shands
+Hackensack University Medical Center
+Saint Joseph's Hospital
+Baptist Hospital
+Huntsville Hospital
+Rush University Medical Center
+Northeast Georgia Medical Center Gainesville
+University of Iowa Hospital
+Texas Children's Hospital
+Community Regional Medical Center
+UNC Medical Center
+Ochsner Medical Center
+Summa Akron City Hospital
+Las Palmas Medical Center
+UMass Memorial Medical Center
+Grady Memorial Hospital
+Lucile Packard Children's Hospital
+OSF Saint Francis Medical Center
+Froedtert & Medical College of Wisconsin
+Henry Ford Hospital
+OhioHealth Riverside Methodist Hospital
+Beaumont Hospital
+Northwestern Medicine Central DuPage Hospital
+Riverside Community Hospital
+Medstar Washington Hospital Center
+Spectrum Health Butterworth Hospital
+MUSC Health University Hospital
